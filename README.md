@@ -7,6 +7,7 @@ This application allows users to view and interact with information stored in a 
 ## Table of Contents
 
 * [Installation](#installation)
+* [Usage](#bw)
 * [Built With](#bw)
 * [Contributing](#credits)
 * [Issues](#issues)
