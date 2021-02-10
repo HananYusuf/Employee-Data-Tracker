@@ -1,8 +1,9 @@
 # Employee-Data-Tracker
 
+![License](https://img.shields.io/badge/LICENSE-MIT-GREEN)
 ## Description
 
-This application allows users to view and interact with information stored in a database from the Node CLI. 
+This is a command-line application that allows users to view and interact with information stored in a database from Node CLI. The user can add or view departments, roles, employees and update employee roles.
 
 ## Table of Contents
 
